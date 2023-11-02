@@ -1,0 +1,17 @@
+C:\Users\kente\OneDrive\Documents\VS Apps\DigitalClockApp\bin\Debug\net6.0-windows\DigitalClockApp.exe
+C:\Users\kente\OneDrive\Documents\VS Apps\DigitalClockApp\bin\Debug\net6.0-windows\DigitalClockApp.deps.json
+C:\Users\kente\OneDrive\Documents\VS Apps\DigitalClockApp\bin\Debug\net6.0-windows\DigitalClockApp.runtimeconfig.json
+C:\Users\kente\OneDrive\Documents\VS Apps\DigitalClockApp\bin\Debug\net6.0-windows\DigitalClockApp.dll
+C:\Users\kente\OneDrive\Documents\VS Apps\DigitalClockApp\bin\Debug\net6.0-windows\DigitalClockApp.pdb
+C:\Users\kente\OneDrive\Documents\VS Apps\DigitalClockApp\obj\Debug\net6.0-windows\DigitalClockApp.DigitalClock.resources
+C:\Users\kente\OneDrive\Documents\VS Apps\DigitalClockApp\obj\Debug\net6.0-windows\DigitalClockApp.csproj.GenerateResource.cache
+C:\Users\kente\OneDrive\Documents\VS Apps\DigitalClockApp\obj\Debug\net6.0-windows\DigitalClockApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kente\OneDrive\Documents\VS Apps\DigitalClockApp\obj\Debug\net6.0-windows\DigitalClockApp.AssemblyInfoInputs.cache
+C:\Users\kente\OneDrive\Documents\VS Apps\DigitalClockApp\obj\Debug\net6.0-windows\DigitalClockApp.AssemblyInfo.cs
+C:\Users\kente\OneDrive\Documents\VS Apps\DigitalClockApp\obj\Debug\net6.0-windows\DigitalClockApp.csproj.CoreCompileInputs.cache
+C:\Users\kente\OneDrive\Documents\VS Apps\DigitalClockApp\obj\Debug\net6.0-windows\DigitalClockApp.dll
+C:\Users\kente\OneDrive\Documents\VS Apps\DigitalClockApp\obj\Debug\net6.0-windows\refint\DigitalClockApp.dll
+C:\Users\kente\OneDrive\Documents\VS Apps\DigitalClockApp\obj\Debug\net6.0-windows\DigitalClockApp.pdb
+C:\Users\kente\OneDrive\Documents\VS Apps\DigitalClockApp\obj\Debug\net6.0-windows\DigitalClockApp.genruntimeconfig.cache
+C:\Users\kente\OneDrive\Documents\VS Apps\DigitalClockApp\obj\Debug\net6.0-windows\ref\DigitalClockApp.dll
+C:\Users\kente\OneDrive\Documents\VS Apps\DigitalClockApp\obj\Debug\net6.0-windows\DigitalClockApp.Properties.Resources.resources

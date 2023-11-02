@@ -1,0 +1,4 @@
+C:\Users\kente\OneDrive\Documents\VS Apps\HangmanGame\obj\Debug\net6.0\HangmanGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kente\OneDrive\Documents\VS Apps\HangmanGame\obj\Debug\net6.0\HangmanGame.AssemblyInfoInputs.cache
+C:\Users\kente\OneDrive\Documents\VS Apps\HangmanGame\obj\Debug\net6.0\HangmanGame.AssemblyInfo.cs
+C:\Users\kente\OneDrive\Documents\VS Apps\HangmanGame\obj\Debug\net6.0\HangmanGame.csproj.CoreCompileInputs.cache
